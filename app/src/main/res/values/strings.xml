@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DownloadPDF</string>
+    <string name="click_to_download_pdf">Click to Download PDF</string>
+</resources>
